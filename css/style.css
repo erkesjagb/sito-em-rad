@@ -4,7 +4,7 @@ html {
 
 body {
     margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: 'Satoshi', sans-serif;
 }
 
 .titolo {
@@ -20,13 +20,13 @@ h1{
 }
 
 .parola1{
-    font-family: 'Satoshi-Black';
+   
     font-size: 150px;
     margin-left: 154px;
 }
 
 .parola2{
-    font-family: 'Satoshi-Black';
+   
     font-size: 150px;
     margin-left: 280px;
     background-image: linear-gradient(to right,  #FC63F4, #35C6F7, #F5F214, #F51418);
@@ -35,7 +35,7 @@ h1{
 }
 
 .parola3{
-    font-family: 'Satoshi-Black';
+   font-weight: 900;
     font-size: 150px;
     margin-left: 154px;
     margin-bottom: 0;
@@ -53,18 +53,18 @@ h1{
 }
 
 .didascalie-sinistra {
-    font-family: 'Satoshi-Medium';
+    
     font-size: 25px;
 }
 
 .didascalie-sinistra a {
-    font-family: 'Satoshi-Medium';
+    
     font-size: 25px;
 }
 
 .didascalie-destra{
     text-align: left;
-    font-family: 'Satoshi-Medium';
+    
     font-size: 28px;  
 }
 
@@ -96,7 +96,7 @@ a:hover{
 
 .tempo {
     text-align: right;
-    font-family: 'Satoshi-Medium';
+    
     font-size: 25px;
     margin-right: 145px;
     margin-top: 50px;
@@ -104,7 +104,7 @@ a:hover{
 }
 
 .tempo strong {
-    font-family: 'Satoshi-Bold';
+    
 }
 
 h2 {
@@ -114,7 +114,7 @@ h2 {
 }
 
 .colorato {
-    font-family: 'Satoshi-Black';
+    
     font-size: 128px;
     background-image: linear-gradient(to right,  #FC63F4, #35C6F7, #F5F214, #F51418);
     -webkit-background-clip: text;
@@ -122,7 +122,7 @@ h2 {
 }
 
 .normale {
-    font-family: 'Satoshi-Regular';
+    
     font-size: 128px;
 }
 
@@ -133,21 +133,21 @@ h2 {
 }
 
 .punto1 {
-    font-family: 'Satoshi-Regular';
+    
     font-size: 40px;
     margin-left: 142px;
     margin-right: 142px;
 }
 
 .punto2 {
-    font-family: 'Satoshi-Regular';
+    
     font-size: 28px;
     margin-left: 142px;
     margin-right: 142px;
 }
 
 h3{
-    font-family: 'Satoshi-Black';
+    
     font-size: 128px;
     text-align: left;
     margin-left: 142px;
@@ -167,7 +167,7 @@ h3{
 }
 
 .text h4{
-    font-family: 'Satoshi-Bold';
+    
     font-size: 40px;
     line-height: normal;
     margin-bottom: 1.4rem;
@@ -175,7 +175,7 @@ h3{
 }
 
 .text p{
-    font-family: 'Satoshi-Regular';
+    
     font-size: 20px;
     line-height: 1.4;
     margin-bottom: 1.4rem;
@@ -209,23 +209,23 @@ h5 {
 }
 
 .ultimo1{
-    font-family: 'Satoshi-Bold';
+    
     font-size: 128px;
 }
 
 .ultimo2 {
-    font-family: 'Satoshi-Black';
+    
     font-size: 128px;
 }
 
 .ultimo3 {
-    font-family: 'Satoshi-Medium';
+    
     font-size: 128px;
     font-style: italic;
 }
 
 .ultimo4 {
-    font-family: 'Satoshi-Black';
+    
     font-size: 128px;
     background-image: linear-gradient(to right,  #FC63F4, #35C6F7, #F5F214, #F51418);
     -webkit-background-clip: text;
@@ -243,7 +243,7 @@ h5 {
 }
 
 .footer p {
-    font-family: 'Satoshi-Regular';
+   
     font-size: 20px;
     line-height: 1 rem;
 }
